@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-othello/static/css/main.df45ac97.chunk.css",
-    "main.js": "/react-othello/static/js/main.a650a7f3.chunk.js",
-    "main.js.map": "/react-othello/static/js/main.a650a7f3.chunk.js.map",
-    "runtime-main.js": "/react-othello/static/js/runtime-main.697054ee.js",
-    "runtime-main.js.map": "/react-othello/static/js/runtime-main.697054ee.js.map",
-    "static/js/2.6f81d5be.chunk.js": "/react-othello/static/js/2.6f81d5be.chunk.js",
-    "static/js/2.6f81d5be.chunk.js.map": "/react-othello/static/js/2.6f81d5be.chunk.js.map",
-    "index.html": "/react-othello/index.html",
-    "static/css/main.df45ac97.chunk.css.map": "/react-othello/static/css/main.df45ac97.chunk.css.map",
-    "static/js/2.6f81d5be.chunk.js.LICENSE.txt": "/react-othello/static/js/2.6f81d5be.chunk.js.LICENSE.txt"
+    "main.css": "/deep-othello/static/css/main.df45ac97.chunk.css",
+    "main.js": "/deep-othello/static/js/main.a650a7f3.chunk.js",
+    "main.js.map": "/deep-othello/static/js/main.a650a7f3.chunk.js.map",
+    "runtime-main.js": "/deep-othello/static/js/runtime-main.10ec54e5.js",
+    "runtime-main.js.map": "/deep-othello/static/js/runtime-main.10ec54e5.js.map",
+    "static/js/2.6f81d5be.chunk.js": "/deep-othello/static/js/2.6f81d5be.chunk.js",
+    "static/js/2.6f81d5be.chunk.js.map": "/deep-othello/static/js/2.6f81d5be.chunk.js.map",
+    "index.html": "/deep-othello/index.html",
+    "static/css/main.df45ac97.chunk.css.map": "/deep-othello/static/css/main.df45ac97.chunk.css.map",
+    "static/js/2.6f81d5be.chunk.js.LICENSE.txt": "/deep-othello/static/js/2.6f81d5be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.697054ee.js",
+    "static/js/runtime-main.10ec54e5.js",
     "static/js/2.6f81d5be.chunk.js",
     "static/css/main.df45ac97.chunk.css",
     "static/js/main.a650a7f3.chunk.js"
